@@ -38,3 +38,15 @@ h2 {
 .title {
   font-size: 10px;
 }
+
+.section {
+  background-color: white;
+  padding: 20px 10px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.section-title {
+  border-bottom: 1px solid cornflowerblue;
+  display: inline;
+  padding-bottom: 10px;
+}
